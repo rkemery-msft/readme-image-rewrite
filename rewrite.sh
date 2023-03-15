@@ -19,7 +19,6 @@ for f in $source_folder
 do
   echo "Uploading $f file..."
   az storage blob upload --account-name $AZURE_STORAGE_ACCOUNT --account-key $AZURE_STORAGE_ACCESS_KEY --container-name $CONTAINER_NAME --file $f
-  cat $f
 done
 
 echo "Listing the blobs..."
