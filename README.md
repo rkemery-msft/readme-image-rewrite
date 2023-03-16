@@ -58,7 +58,7 @@ Create an AKS cluster in Azure and learn more about the workflow from start to f
 
 ![](https://rkscribehowsa.blob.core.windows.net/scribehow/13_user_cropped_screenshot.jpeg)
 
-**16. Since this is a demo, we can select 99.5% API server availability.  API server availability is an uptime service level agreement that guarantees a Kubernetes API server uptime of 99.95% clusters with one or more availability zones and 99.9% for all other clusters. **
+**16. Since this is a demo, we can select 99.5% API server availability.  API server availability is an uptime service level agreement that guarantees a Kubernetes API server uptime of 99.95% clusters with one or more availability zones and 99.9% for all other clusters.**
 
 ![](https://rkscribehowsa.blob.core.windows.net/scribehow/14_user_cropped_screenshot.jpeg)
 
