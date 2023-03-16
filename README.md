@@ -158,3 +158,5 @@ Create an AKS cluster in Azure and learn more about the workflow from start to f
 
 ![](https://rkscribehowsa.blob.core.windows.net/scribehow/38_user_cropped_screenshot.jpeg)
 #### [Made with Scribe](https://scribehow.com/shared/Step-by-Step_AKS_Workflow_-_EKS_to_AKS_Considerations__O2mSEOO4Q0mPy_VWTijcBw)
+
+
